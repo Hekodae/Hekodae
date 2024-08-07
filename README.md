@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, ReactJS, other front-end libraries
 - 🌱 I’m currently learning Front-end development with Javascript
 - 💞️ I’m looking to collaborate on pretty much anything to do with React or Javascript. I need the experience to start my career as a front-end engineer.
-- 📫 How to reach me ...
+- 📫 You can reach me either here or at alicecharlottegutierrez@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've been self-studying for 5 years, and I've lived in both the USA and United Kingdom for several years.
 
